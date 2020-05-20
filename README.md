@@ -9,6 +9,8 @@ Clone Repo
 
 Navigate to lyrics directory
 
+pip3 install requests
+
 python3 lyrics.py
 
 Follow prompts on screen
